@@ -29,12 +29,9 @@ Interested in all nodes where my major converges with other disciplines.
  ## Fun fact
  **I chase runs under the sun and stories under the stars — cricket fuels my fire, and novels feed my soul.**
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raghavlatawa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raghavlatawa/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/raghavlatawa" target="blank">
-  <br>
-</p>
+## 📫 Let's Connect !
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/raghavlatawa/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghav-latawa&show_icons=true&locale=en&layout=compact" alt="raghav-latawa" /></p>
 
