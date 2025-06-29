@@ -30,18 +30,12 @@ Interested in all nodes where my major converges with other disciplines.
             <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
             <br>
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
-<br>
 
+- 1) [Pizzahut_Data_Analysis_SQL](https://github.com/Raghav-Latawa/Pizzahut_Data_Analysis_SQL)
 
-### PROJECT_1 [Pizzahut_Data_Analysis_SQL](https://github.com/Raghav-Latawa/Pizzahut_Data_Analysis_SQL)
+- 2) [MEDICAL DASHBOARD](https://github.com/Raghav-Latawa/Medical_Dashboard)
 
-
-### PROJECT_2 [MEDICAL DASHBOARD](https://github.com/Raghav-Latawa/Medical_Dashboard)
-
-
-### PROJECT_3 [BANK LOAN DASHBOARD](https://github.com/Raghav-Latawa/Bank_Loan_Dashboard)
-<br>
-
+-3) [BANK LOAN DASHBOARD](https://github.com/Raghav-Latawa/Bank_Loan_Dashboard)
 
 - 👨‍💻 Check Out my other projects here [https://github.com/Raghav-Latawa](https://github.com/Raghav-Latawa)
 
