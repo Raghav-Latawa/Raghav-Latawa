@@ -32,7 +32,6 @@ Interested in all nodes where my major converges with other disciplines.
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/raghavlatawa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raghavlatawa/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/raghavlatawa" target="blank">
   <br>
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/raghavlatawa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
