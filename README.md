@@ -20,8 +20,8 @@ Interested in all nodes where my major converges with other disciplines.
 
 - 👨‍💻 Check Out my other projects here [https://github.com/Raghav-Latawa](https://github.com/Raghav-Latawa)
 
-- 📫 How to reach me **raghavlatawa01@gmail.com**
-- 
+- 📫 Feel Free to reach out for any suggestions at **raghavlatawa01@gmail.com**
+  
 <br>
 
  ## Fun fact
