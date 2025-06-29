@@ -26,8 +26,6 @@ Interested in all nodes where my major converges with other disciplines.
 
 - 📫 Feel Free to reach out for any suggestions at **raghavlatawa01@gmail.com**
   
-<br>
-
  ## Fun fact
  **I chase runs under the sun and stories under the stars — cricket fuels my fire, and novels feed my soul.**
 
