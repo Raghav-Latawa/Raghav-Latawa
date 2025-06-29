@@ -9,10 +9,10 @@ Interested in all nodes where my major converges with other disciplines.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-latawa&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-latawa" /> </p>
 
 ### PROJECT_1 [Pizzahut_Data_Analysis_SQL](https://github.com/Raghav-Latawa/Pizzahut_Data_Analysis_SQL)
-<br>
+
 
 ### PROJECT_2 [MEDICAL DASHBOARD](https://github.com/Raghav-Latawa/Medical_Dashboard)
-<br>
+
 
 ### PROJECT_3 [BANK LOAN DASHBOARD](https://github.com/Raghav-Latawa/Bank_Loan_Dashboard)
 <br>
