@@ -35,7 +35,7 @@ Interested in all nodes where my major converges with other disciplines.
 
 - 2) [MEDICAL DASHBOARD](https://github.com/Raghav-Latawa/Medical_Dashboard)
 
--3) [BANK LOAN DASHBOARD](https://github.com/Raghav-Latawa/Bank_Loan_Dashboard)
+- 3) [BANK LOAN DASHBOARD](https://github.com/Raghav-Latawa/Bank_Loan_Dashboard)
 
 - 👨‍💻 Check Out my other projects here [https://github.com/Raghav-Latawa](https://github.com/Raghav-Latawa)
 
