@@ -8,22 +8,6 @@ Interested in all nodes where my major converges with other disciplines.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-latawa&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-latawa" /> </p>
 
-### PROJECT_1 [Pizzahut_Data_Analysis_SQL](https://github.com/Raghav-Latawa/Pizzahut_Data_Analysis_SQL)
-
-
-### PROJECT_2 [MEDICAL DASHBOARD](https://github.com/Raghav-Latawa/Medical_Dashboard)
-
-
-### PROJECT_3 [BANK LOAN DASHBOARD](https://github.com/Raghav-Latawa/Bank_Loan_Dashboard)
-<br>
-
-
-- 👨‍💻 Check Out my other projects here [https://github.com/Raghav-Latawa](https://github.com/Raghav-Latawa)
-
-- 📫 Feel Free to reach out for any suggestions at **raghavlatawa01@gmail.com**
-  
-<br>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,6 +32,22 @@ Interested in all nodes where my major converges with other disciplines.
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 <br>
 
+
+### PROJECT_1 [Pizzahut_Data_Analysis_SQL](https://github.com/Raghav-Latawa/Pizzahut_Data_Analysis_SQL)
+
+
+### PROJECT_2 [MEDICAL DASHBOARD](https://github.com/Raghav-Latawa/Medical_Dashboard)
+
+
+### PROJECT_3 [BANK LOAN DASHBOARD](https://github.com/Raghav-Latawa/Bank_Loan_Dashboard)
+<br>
+
+
+- 👨‍💻 Check Out my other projects here [https://github.com/Raghav-Latawa](https://github.com/Raghav-Latawa)
+
+- 📫 Feel Free to reach out for any suggestions at **raghavlatawa01@gmail.com**
+  
+<br>
 
  ## Fun fact
  **I chase runs under the sun and stories under the stars — cricket fuels my fire, and novels feed my soul.**
