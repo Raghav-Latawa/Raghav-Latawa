@@ -29,7 +29,7 @@ Interested in all nodes where my major converges with other disciplines.
 <br>
 <br>
 
-- 📫 Feel Free to reach out for any suggestions at **raghavlatawa01@gmail.com**
+  
   
  ## Fun fact
  **I chase runs under the sun and stories under the stars — cricket fuels my fire, and novels feed my soul.**
@@ -38,6 +38,8 @@ Interested in all nodes where my major converges with other disciplines.
 ## 📫 Let's Connect !
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/raghavlatawa/)
+  <br>
+  📫 Feel Free to reach out for any suggestions at **raghavlatawa01@gmail.com**
   <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghav-latawa&show_icons=true&locale=en&layout=compact" alt="raghav-latawa" /></p>
