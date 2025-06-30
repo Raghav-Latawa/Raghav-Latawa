@@ -26,11 +26,8 @@ Interested in all nodes where my major converges with other disciplines.
 -  [WAREHOUSE OPTIMISER](https://github.com/Raghav-Latawa/Warehouse-Optimiser)
 
 -  [USA Presidency Outcome Predictor](https://github.com/Raghav-Latawa/USA_Presidency_Outcome_Predictor)
-
- 
-     
-
-
+<br>
+<br>
 
 - 📫 Feel Free to reach out for any suggestions at **raghavlatawa01@gmail.com**
   
