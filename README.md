@@ -30,7 +30,7 @@ Interested in all nodes where my major converges with other disciplines.
  
      
 
-- 👨‍💻 Check Out my other projects here [https://github.com/Raghav-Latawa](https://github.com/Raghav-Latawa)
+
 
 - 📫 Feel Free to reach out for any suggestions at **raghavlatawa01@gmail.com**
   
