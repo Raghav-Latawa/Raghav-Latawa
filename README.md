@@ -6,8 +6,6 @@
 B.E. in Information Technology from UIET, Panjab University.
 Interested in all nodes where my major converges with other disciplines.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-latawa&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-latawa" /> </p>
-<br>
 
 
 <h2 align="left">Languages and Tools:</h2>
