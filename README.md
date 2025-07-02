@@ -2,6 +2,7 @@
 <h1 align="center">Greetings👋, I'm Raghav Latawa</h1>
 <h4 align="center">Final-year B.E. IT student skilled in Python, SQL, and machine learning, with a focus on solving business problems through data.
 I turn complex datasets into actionable insights, build dashboards that support decision-making, and develop scalable app-based solutions. </h4>
+<br>
 
 ## About Me
 B.E. in Information Technology from UIET, Panjab University.
