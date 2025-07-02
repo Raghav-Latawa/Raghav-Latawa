@@ -44,4 +44,5 @@ Interested in all nodes where my major converges with other disciplines.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghav-latawa&show_icons=true&locale=en&layout=compact" alt="raghav-latawa" /></p>
 
+![GitHub total commits](https://img.shields.io/github/commit-count/Raghav-Latawa/Insurance-Cost-Prediction)
 
