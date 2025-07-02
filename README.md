@@ -28,7 +28,7 @@ I'm eager to learn and actively explore all domains where my IT background inter
 
 -  [Insurnace_Cost_Predition](https://github.com/Raghav-Latawa/Medical_Insurance_cost_prediction)
 <br>
-<br>
+
 
  ## Fun fact
  **I chase runs under the sun and stories under the stars — cricket fuels my fire, and novels feed my soul.**
