@@ -1,6 +1,6 @@
 
 <h1 align="center">Greetings👋, I'm Raghav Latawa</h1>
-<h3 align="center">A passionate Data Analyst and Software Development Enthusiast from India</h3>
+<h3 align="center">A passionate Data Analyst and Software Developer </h3>
 
 ## About Me
 B.E. in Information Technology from UIET, Panjab University.
