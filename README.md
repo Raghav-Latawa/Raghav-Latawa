@@ -32,6 +32,8 @@ I'm eager to learn and actively explore all domains where my IT background inter
 
  ## Fun fact
  **I chase runs under the sun and stories under the stars — cricket fuels my fire, and novels feed my soul.**
+
+ 
 <br>
 
 ## 📫 Let's Connect !
