@@ -31,17 +31,13 @@ I'm eager to learn and actively explore all domains where my IT background inter
 
 
 
-
- 
-<br>
-
 ## 📫 Let's Connect !
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/raghavlatawa/)
   <br>
 - 📫 Feel Free to reach out for any suggestions at **raghavlatawa01@gmail.com**
   <br>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghav-latawa&show_icons=true&locale=en&layout=compact" alt="raghav-latawa" /></p>
 
 
